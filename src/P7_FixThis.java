@@ -8,7 +8,7 @@
  7. After you fixed the error, why is this an error? Note: do not just repeat Eclipse's error message,
  why did Eclipse have that error message?
  
- 
+ I ran the program and did not get an error.  It appears to look like the figure defined on Canvas.
  
  */
 
